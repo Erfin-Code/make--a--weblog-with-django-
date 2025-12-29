@@ -6,7 +6,7 @@ from .models import Post, Category
 # blog/admin.py
 from django.contrib import admin
 from .models import Post, Category
-from user.models import CustomUser  # مطمئن شو مسیر درست باشد
+from user.models import CustomUser  
 
 @admin.register(Post)
 class PostAdmin(admin.ModelAdmin):
