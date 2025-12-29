@@ -38,6 +38,7 @@
 git clone https://github.com/AmirrezaHasanlKhamse15/make--a--weblog-with-django-.git
 cd weblog_project
 ## ساختار کلی پروژه
+2.tree
 ```bash 
 weblog_project/
 ├── api/                 # اپلیکیشن API و سرویس‌های جانبی
