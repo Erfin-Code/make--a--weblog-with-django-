@@ -30,9 +30,10 @@
 - djangorestframework-simplejwt
 
 ---
+
 ## ساختار کلی پروژه
-2.tree
-```bash 
+
+```bash
 weblog_project/
 ├── api/                 # اپلیکیشن API و سرویس‌های جانبی
 │   ├── migrations/      # فایل‌های مهاجرت دیتابیس
@@ -52,11 +53,3 @@ weblog_project/
 │   └── __pycache__
 └── weblog/              # تنظیمات پروژه و فایل‌های اصلی
     └── __pycache__
-## نصب و راه‌اندازی پروژه
-
-1. **کلون کردن ریپازیتوری**
-```bash
-git clone https://github.com/AmirrezaHasanlKhamse15/make--a--weblog-with-django-.git
-cd weblog_project
-
-
