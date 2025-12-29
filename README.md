@@ -30,13 +30,6 @@
 - djangorestframework-simplejwt
 
 ---
-
-## نصب و راه‌اندازی پروژه
-
-1. **کلون کردن ریپازیتوری**
-```bash
-git clone https://github.com/AmirrezaHasanlKhamse15/make--a--weblog-with-django-.git
-cd weblog_project
 ## ساختار کلی پروژه
 2.tree
 ```bash 
@@ -59,4 +52,11 @@ weblog_project/
 │   └── __pycache__
 └── weblog/              # تنظیمات پروژه و فایل‌های اصلی
     └── __pycache__
+## نصب و راه‌اندازی پروژه
+
+1. **کلون کردن ریپازیتوری**
+```bash
+git clone https://github.com/AmirrezaHasanlKhamse15/make--a--weblog-with-django-.git
+cd weblog_project
+
 
